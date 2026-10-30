@@ -1,0 +1,8 @@
+out/
+data/
+*.class
+.idea/
+*.iml
+.vscode/
+
+.fake
